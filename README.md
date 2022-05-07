@@ -17,6 +17,7 @@
   - Category has 2 columns: id and category name
   - Product has 5 columns: id, product_name, price, stock, category_id
   - Tag has 2 columns: id and tag name
+  - Product Tag has 3 columns: id, product_id and tag_id
   
   ## Usage
   As the developer of this app, all user information will not be collected
