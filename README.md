@@ -14,7 +14,9 @@
   This is a back end designed for an internet retail company and an e-commerce website that uses the latest technologies
   ## Database
   We have four database models: Category, Product, Tag and ProductTag
-    - Category has two columns: id and category name
+  - Category has two columns: id and category name
+  - Product has 5 columns: id, product_name, price, stock, category_id
+  
   ## Usage
   As the developer of this app, all user information will not be collected
   
